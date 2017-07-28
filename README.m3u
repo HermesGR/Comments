@@ -2,6 +2,9 @@
 #EXTM3U
 
 
+#EXTINF:1, [B][COLOR blue]It was so close for Gojwovchik to win ..[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
 #EXTINF:1, [B][COLOR blue]AMAZING..HOW DID YOU KNOW HE WILL WIN THAT ODD ??[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
